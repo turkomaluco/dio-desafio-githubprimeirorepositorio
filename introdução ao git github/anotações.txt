@@ -1,0 +1,3 @@
+link para download do repositorio:
+https://github.com/turkomaluco/dio-desafio-githubprimeirorepositorio
+O Git Bash e um terminal extenndido para otimizar o uso do Git.
