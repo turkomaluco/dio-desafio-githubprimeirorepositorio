@@ -1,0 +1,24 @@
+Aula ministrada por Juliana Mascarenhas
+
+habilidades complementares
+decomposição
+padõres
+abstração
+algoritimos
+estudo de caso conceitual : perdido (portugol)
+estudo de caso aplicado: soma de um intervalo (portugol)
+estudo de caso aplicado: adivinhe um numero (portugol)
+O que é lógica
+técnicas de lógica de programação
+tipologia e variaveis
+intruções primitivas
+estruturas condicionais e operadores
+estruturas de repetição
+vetores e matrizes
+o que são funções
+intruções de saida/entrada
+introdução a linguagens de programação
+como um computador entende um programa
+analises de codigo
+paradigmas de programação
+algoritimos em portugol
